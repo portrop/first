@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/portrop/first/issues"
   },
-  "homepage": "https://github.com/portrop/first#readme"
+  "homepage": "https://github.com/portrop/first#readme",
+  "dependencies": {
+    "async": "^2.1.4"
+  }
 }
